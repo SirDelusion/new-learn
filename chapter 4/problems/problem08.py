@@ -1,0 +1,11 @@
+list=[]
+a = int(input("Enter your marks:"))
+list.append(a)
+b = int(input("Enter your marks:"))
+list.append(b)
+c = int(input("Enter your marks:"))
+list.append(c)
+d = int(input("Enter your marks:"))
+list.append(d)
+list.sort()
+print(list)

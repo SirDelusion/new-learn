@@ -1,0 +1,5 @@
+scores = (10, 20, 30, 20, 40, 20, 50)
+n=scores.count(20)
+m = scores.index(30)
+print(n)
+print(m)

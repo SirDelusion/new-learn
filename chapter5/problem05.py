@@ -1,0 +1,7 @@
+numbers = set()
+numbers.add(10)
+numbers.add(20)
+numbers.add(30)
+#print(numbers)
+numbers.remove(20)
+print(numbers)
